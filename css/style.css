@@ -1,0 +1,56 @@
+body{
+    margin:0%;
+    padding: 0%;
+    
+}
+header{
+    padding: 20px 20px 0px 70px;
+}
+.f{
+    background-image: url(../kofe.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    margin: 0%; 
+}
+header a{ 
+    color:white;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+.y{
+    float: right;
+}
+ul{
+    margin: 0%;
+    list-style: none;  
+    float: right;
+    padding-right: 100px;
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+}
+.g{
+    float: left;
+    
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    word-spacing: 300px;
+
+}
+footer a{
+        color:white;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+li:active{
+    color:burlywood;
+    background-color:floralwhite;
+    cursor: pointer;
+}
